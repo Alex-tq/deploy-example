@@ -6,7 +6,7 @@ import {BrowserRouter} from 'react-router-dom'
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename='deploy-example'>
+    <BrowserRouter basename='/deploy-example'>
     <App />
     </BrowserRouter>
   </React.StrictMode>,
